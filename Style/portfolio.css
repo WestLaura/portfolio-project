@@ -143,6 +143,7 @@ footer {
   margin: 60px 20px;
 }
 .contact-box {
+  flex-wrap: wrap;
   background: var(--secondary-color);
   padding: 30px 120px;
   border-radius: 10px;
