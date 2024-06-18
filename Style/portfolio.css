@@ -82,7 +82,6 @@ p {
 
 .box {
   background-color: var(--branding-color);
-
   padding: 15px;
   border-radius: 8px;
 }
